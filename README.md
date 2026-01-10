@@ -33,7 +33,7 @@ MIT
 
 
 
-command:
+command:    
 /help /?  
 /python /py  
 /cmd  
