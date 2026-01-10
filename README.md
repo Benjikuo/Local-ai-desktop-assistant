@@ -30,3 +30,25 @@ All conversations and memory stay on your machine.
 
 ## 📜 License
 MIT
+
+
+
+command:
+/help /?
+/python /py
+/cmd
+/powershell /ps /cli
+/clear /cls
+/open (google / github / youtube / chatgpt / gemini / yzu / gmail / outlook / calendar / translate / chess / ig / fb / yt / vscode)
+/search (website name)
+/math 
+/chat
+/chatgpt /gpt
+/gemini
+/shutdown (s / r) /sd (s / r)
+/todo
+/homework /hw
+/note []
+/chess
+/dice
+/card
